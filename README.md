@@ -4,12 +4,12 @@ COVID tracker app developed in react native.
 
 Features:
 1. Global Stats
-2. Country Stats
+2. Country Stats  
 3: Modern UI   
 4: Icon Use  
 5: Navigation in React Native    
-6: Drawer Screens   
-7: API data fetching  
+6: Drawer Screens  
+7: API data fetching   
 
 
 
