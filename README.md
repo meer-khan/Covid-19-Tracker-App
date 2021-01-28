@@ -2,14 +2,14 @@
 
 COVID tracker app developed in react native.
 
-Features:
-1. Global Stats
-2. Country Stats  
-3: Modern UI   
-4: Icon Use  
-5: Navigation in React Native    
-6: Drawer Screens  
-7: API data fetching   
+Features:  
+:point_right: 1. Global Stats    
+:point_right: 2. Country Stats     
+:point_right: 3: Modern UI  :sparkler:     
+:point_right: 4: Icon Use    
+:point_right: 5: Navigation in React Native      
+:point_right: 6: Drawer Screens    
+:point_right: 7: API data fetching     
 
 ## Setup Enviroment 
 
@@ -17,21 +17,21 @@ Basic procedure to start with React native is to open the website " https://snac
 second method is to code with  EXPO CLI to write some code in react native SO ,  
 what you have to do is to install the following  
 
-1: VS code  
-2: NODE LTS 12 (install node.js from official website)  
-3: run this command in VSCode terminal "npm install -g expo-cli"  
-4: the following commands to create and run the project  
-      - "expo init AwesomeProject"    
-      - "cd AwesomeProject"    
-      - "npm start"   
-5: Install EXPO application from playstore or Appstore and scan QR code generated on terminal of VSCode or in your web browser (after starting your application)
-Congratulations you are read to write code in react native 
+:zap: 1: VS code    
+:zap: 2: NODE LTS 12 (install node.js from official website)    
+:zap: 3: run this command in VSCode terminal "npm install -g expo-cli"    
+:zap: 4: the following commands to create and run the project    
+      - "expo init AwesomeProject"      
+      - "cd AwesomeProject"      
+      - "npm start"     
+:zap: 5: Install EXPO application from playstore or Appstore and scan QR code generated on terminal of VSCode or in your web browser (after starting your application)
+Congratulations you are read to write code in react native   
 
-NOW , copy my code from APP.js file   
-save the project your app will run on your mobile  
+:zap: NOW , copy my code from APP.js file     
+save the project your app will run on your mobile    
 
-## https://reactnative.dev/docs/environment-setup   
-official website for enviroment setup    
+### https://reactnative.dev/docs/environment-setup   
+#### official website for enviroment setup    
 
 
 ## Screen Shots  
