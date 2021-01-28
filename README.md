@@ -11,6 +11,37 @@ Features:
 6: Drawer Screens  
 7: API data fetching   
 
+## Setup Enviroment 
+
+Basic procedure to start with React native is to open the website " https://snack.expo.io/ " and start coding there  (copy my code from APP.JS and add dependencies from snack warnings ) 
+second method is to code with  EXPO CLI to write some code in react native SO ,  
+what you have to do is to install the following  
+
+1: VS code  
+2: NODE LTS 12 (install node.js from official website)  
+3: run this command in VSCode terminal "npm install -g expo-cli"  
+4: the following commands to create and run the project  
+      - "expo init AwesomeProject"    
+      - "cd AwesomeProject"    
+      - "npm start"   
+5: Install EXPO application from playstore or Appstore and scan QR code generated on terminal of VSCode or in your web browser (after starting your application)
+Congratulations you are read to write code in react native 
+
+NOW , copy my code from APP.js file   
+save the project your app will run on your mobile  
+
+## https://reactnative.dev/docs/environment-setup   
+official website for enviroment setup    
+
+
+## Screen Shots  
+
+ <img src="https://user-images.githubusercontent.com/40295656/106179237-91098c00-61bc-11eb-9989-7adaebcaa16a.jpeg" height = '350' width='200'/> 
+  <img src="https://user-images.githubusercontent.com/40295656/106179242-923ab900-61bc-11eb-96bb-1d038b2b2dd8.jpeg" height = '350' width='200'/> 
+   <img src="https://user-images.githubusercontent.com/40295656/106179245-92d34f80-61bc-11eb-882a-567119e17b77.jpeg" height = '350' width='200'/> 
+    <img src="https://user-images.githubusercontent.com/40295656/106179247-936be600-61bc-11eb-8917-f2c5f1d98fc4.jpeg" height = '350' width='200'/> 
+     <img src="https://user-images.githubusercontent.com/40295656/106179248-936be600-61bc-11eb-8f7e-13d6f62fcccf.jpeg" height = '350' width='200'/> 
+
 
 
 ## Author
